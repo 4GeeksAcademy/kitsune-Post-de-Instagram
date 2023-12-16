@@ -1,0 +1,58 @@
+.instagram {
+    background-color: black;
+    padding: 150px 50px 300px 300px;
+}
+
+.post {
+    
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
+    width: 75%;
+    background-color: white;
+    padding: 10px 0px 35px 0px;
+}
+
+.post-title {
+    display: flex; 
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.title {
+    font-size:40px;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+
+.name {
+    font-size:medium;
+}
+
+.hamburguesa {
+    margin-inline-start: auto;
+    font-size:40px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.icons{
+    display: flex;
+    font-size:x-large;
+    margin-left: 10px;
+}
+
+.etiqueta {
+    margin-inline-start: auto;
+    padding-right: 15px;
+}
+
+.hamburguesa {
+     float: right;
+}
+
+.parrafo {
+    height: 150px;
+    padding: 7px 20px 10px 15px;
+    overflow: hidden;
+}
